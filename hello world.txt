@@ -1,3 +1,5 @@
-print ("hello world!!!!");
-print ("hi")
-print ("hello dear")
+
+print("hello world!!!!");
+print("hi");
+print("hello dear");
+
